@@ -1,2 +1,1 @@
-# ngocongdang.H2DMusicAPI
-API spring boot about music
+#Spring Boot JPA Example by Ngô Công Đăng
